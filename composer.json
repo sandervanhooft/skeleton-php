@@ -16,8 +16,9 @@
         }
     ],
     "require": {
-        "illuminate/support": "^5.7",
-        "php": "^7.1"
+        "illuminate/support": "^5.8",
+        "php": "^7.3",
+        "nesbot/carbon": "^3.0"
     },
     "require-dev": {
         "larapack/dd": "^1.0",
